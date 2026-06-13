@@ -1,0 +1,6 @@
+{
+  "name": "Gestion de Syndic",
+  "description": "Solution SaaS moderne pour la gestion de copropriétés et syndic d'immeuble, incluant la gestion financière, les assemblées générales, les tickets d'interventions et la communication entre copropriétaires.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
